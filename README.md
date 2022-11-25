@@ -15,5 +15,6 @@ Interesuję się:
 
 Mieszkam na _**Podkarpaciu**_, w powiecie _**brzozowskim**_. Skończyłem *Technikum nr 5 w Krośnie*, posiadam zawód ***Technik Elektronik***
 
-
-/images/electrocat.png
+ <picture align="center">
+  <img src="images/0018.p1.gif" width="700" title="frog">
+</picture>
