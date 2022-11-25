@@ -8,7 +8,8 @@ Interesuję się:
 
 - Programowaniem
 
-- Elektroniką:
+- Elektroniką cyfrową:
+
   <picture align="top">
   <img src="images/0018.p1.gif" width="100" title="frog">
   </picture>
