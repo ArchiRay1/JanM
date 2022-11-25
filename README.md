@@ -9,16 +9,11 @@ Interesuję się:
 - Programowaniem
 
 - Elektroniką:
-  - Elektroniką cyfrową
-  <picture align="center">
+  - Elektroniką cyfrową<picture align="center">
   <img src="images/0018.p1.gif" width="100" title="frog">
 </picture>
-
   - Mikroprocesorami
   - Systemami Alarmowymi
 
 Mieszkam na _**Podkarpaciu**_, w powiecie _**brzozowskim**_. Skończyłem *Technikum nr 5 w Krośnie*, posiadam zawód ***Technik Elektronik***
 
- <picture align="center">
-  <img src="images/0018.p1.gif" width="100" title="frog">
-</picture>
