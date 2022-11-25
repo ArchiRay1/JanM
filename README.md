@@ -14,4 +14,3 @@ Interesuję się:
   - Systemami Alarmowymi
 
 Mieszkam na _**Podkarpaciu**_, w powiecie _**brzozowskim**_. Skończyłem *Technikum nr 5 w Krośnie*, posiadam zawód ***Technik Elektronik***
-/play secret
