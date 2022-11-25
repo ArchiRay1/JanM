@@ -12,6 +12,7 @@ Interesuję się:
   - Elektroniką cyfrową<picture align="center">
   <img src="images/0018.p1.gif" width="100" title="frog">
 </picture>
+
   - Mikroprocesorami
   - Systemami Alarmowymi
 
