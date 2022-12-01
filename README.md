@@ -1,4 +1,5 @@
 :raised_hand: Cześć, nazywam się **Jan M.** i jestem studentem pierwszego roku na kierunku **Informatyka i Systemy Inteligentne**.
+Moja [Strona Internetowa:](https://archiray1.github.io/)
 Interesuję się:
 
 - Sportem:
@@ -15,8 +16,6 @@ Interesuję się:
   </picture>
 - Mikroprocesorami
 - Systemami Alarmowymi
-
-Moja [Strona Internetowa:](https://archiray1.github.io/)
 
 Mieszkam na _**Podkarpaciu**_, w powiecie _**brzozowskim**_. Skończyłem *Technikum nr 5 w Krośnie*, posiadam zawód ***Technik Elektronik***
 
