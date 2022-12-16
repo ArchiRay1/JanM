@@ -2,6 +2,10 @@
 
 Moja [Strona Internetowa](https://archiray1.github.io/)
 
+[Link do Artykułu](https://cs.paperswithcode.com/paper/security-analysis-of-tunnel-field-effect)
+
+[Link do Repozytorium(FORK)](https://github.com/ArchiRay1/Tunnel-Field-Effect-Transistor)
+
 Interesuję się:
 
 - Sportem:
